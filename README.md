@@ -2,6 +2,8 @@
 
 This repository contains a Python implementation of the classic Breakout game using the Turtle graphics library. The game consists of several components, each implemented in a separate Python file.
 
+<img src="images/breakout.gif" style="width: 200px; height=250px">
+
 ## Features
 
 - Control a paddle at the bottom of the screen to bounce a ball and destroy bricks.
